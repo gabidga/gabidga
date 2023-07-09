@@ -1,5 +1,4 @@
 # 👋 About me 
-________________
 
 - 🔭 I’m currently learning about software testing
 - 👯 I’m looking to collaborate on IT projects
